@@ -1,6 +1,6 @@
 # AirlineDataAnalysis
-Project Title : Exploring Insights From Synthetic Airline Data Analysis With Qlik
-Project Discription :
+#Project Title : Exploring Insights From Synthetic Airline Data Analysis With Qlik
+#Project Discription :
                  The project "Exploring Insights from Synthetic Airline Data Analysis with Qlik" involves utilizing synthetic airline data to derive valuable insights using Qlik, a business intelligence and data visualization tool. 
 In this project, the synthetic airline data simulates various aspects of airline operations, including flight schedules, passenger demographics, ticket sales, and performance metrics. The objective is to leverage Qlik's analytical capabilities to uncover patterns, trends, and correlations within this data, aiding in decision-making processes for airlines, airports, and related stakeholders.
 Scenario 1: Revenue Optimization
@@ -15,8 +15,7 @@ DATASET LINK:
 
 PROJECT DEMONSTRATION LINK :
        PROJECT END-TO-END :   https://drive.google.com/file/d/1M1Wzt7_uzg54KrDGFFzYy7-_0W5QDgD_/view?usp=sharing
-       
-       CONCLUSION         :   https://drive.google.com/file/d/1z1LDCfsxn2qfd44r-VaNW2fmf_vXX8QQ/view?usp=sharing
+        CONCLUSION         :   https://drive.google.com/file/d/1z1LDCfsxn2qfd44r-VaNW2fmf_vXX8QQ/view?usp=sharing
 
 DOCUMENTATION  :
                 https://drive.google.com/file/d/1fxGlpl5GesV6G2gYzMb1kRd-RiQVyD65/view?usp=sharing
